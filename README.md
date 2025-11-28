@@ -2,6 +2,12 @@
 
 An intelligent grant discovery and application generator built for nonprofit organizations. Runs entirely on your local machine using open-source AI models - complete data privacy, zero API costs.
 
+---
+
+![Initial Local Model Flowchart](flowcharts/initial_local.png)
+
+---
+
 ## What It Does
 
 This system helps nonprofits automatically discover relevant grant opportunities and generate draft applications that sound like your organization wrote them. It learns from your past successful applications and maintains your authentic voice.
@@ -112,6 +118,8 @@ Click "Search for Grants" to view sample opportunities. Shows NSF AI Education (
 ### Tab 4: Refine Application
 Provide feedback and click "Refine Application" to improve generated content.
 
+![Final Local Model Flowchart](flowcharts/final_local.png)
+
 ## Performance
 
 | Component | Time |
@@ -204,3 +212,4 @@ Fully functional - all core features working. Last tested October 26, 2025.
 - Grant discovery: Sample grants available
 - AI generation: Professional quality output
 - Web interface: Stable and responsive
+
