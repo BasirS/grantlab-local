@@ -188,21 +188,6 @@ See `docs/` folder for comprehensive guides:
 - `grantlab_doc.md` - Complete technical documentation
 - `comprehensive_guide.rmd` - Theory to implementation guide
 
-## Team
-
-Break Through Tech AI Studio project with Cambio Labs
-
-**Challenge Advisor:** Angelo Orciuoli - @angelo-orciuoli
-
-**Team:**
-- Basir Abdul Samad - @BasirS
-- Victorya Devero - @Vi-deve31
-- Nuzhat Tabassum - @Nuzhat-lanika
-- Given Brown - @GivenBrown
-- Fatemah Abdelwahed - @F2mxvi
-- Gunn Madan - @GunnMadan
-- Emmanuel Madera - @emadera2
-
 ## Status
 
 Fully functional - all core features working. Last tested October 26, 2025.
@@ -212,4 +197,5 @@ Fully functional - all core features working. Last tested October 26, 2025.
 - Grant discovery: Sample grants available
 - AI generation: Professional quality output
 - Web interface: Stable and responsive
+
 
