@@ -197,5 +197,3 @@ Fully functional - all core features working. Last tested October 26, 2025.
 - Grant discovery: Sample grants available
 - AI generation: Professional quality output
 - Web interface: Stable and responsive
-
-
